@@ -1,5 +1,6 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/Welcome.png
 coverY: 0
 layout:
   width: default
