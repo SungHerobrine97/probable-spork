@@ -8,4 +8,5 @@
 
 ------------
 
-* [许可](THIRD_PARTY_NOTICE.md)
+* [引用内容参考](THIRD_PARTY_NOTICE.md)
+* [许可](/LICENSE.md)
