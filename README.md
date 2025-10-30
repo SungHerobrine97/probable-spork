@@ -1,7 +1,11 @@
 ---
 icon: hand-wave
+coverY: 0
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -24,6 +28,6 @@ layout:
 
 ### 参考文档
 
-- [鸣潮同人指引 1.1](https://bilibili.com/read/cv43346710)
-- [Project Moon二创公约](https://limbuscompany.huijiwiki.com/wiki/%E6%9C%88%E8%AE%A1%E4%BA%8C%E5%88%9B%E5%85%AC%E7%BA%A6)
-- [LCB-但丁的笔记](https://limbuscompany.huijiwiki.com/wiki/%E4%BD%86%E4%B8%81%E7%AC%94%E8%AE%B0)
+* [鸣潮同人指引 1.1](https://bilibili.com/read/cv43346710)
+* [Project Moon二创公约](https://limbuscompany.huijiwiki.com/wiki/%E6%9C%88%E8%AE%A1%E4%BA%8C%E5%88%9B%E5%85%AC%E7%BA%A6)
+* [LCB-但丁的笔记](https://limbuscompany.huijiwiki.com/wiki/%E4%BD%86%E4%B8%81%E7%AC%94%E8%AE%B0)
