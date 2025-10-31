@@ -6,6 +6,7 @@
     * [莫塔里权限组件](montelli/permission-montelli.md)
 * LCB部分非官方拓展
   * [人格覆写术](LCB/id-rewrite.md)
+  * [狂猎](LCB/the-wild-hunt.md)
 * [与docsify的区别](diff-docsify.md)
 * [引用内容参考](THIRD_PARTY_NOTICE.md)
 * [许可](LICENSE.md)
