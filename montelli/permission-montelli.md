@@ -14,7 +14,7 @@
 
 ## 设备最低要求
 
-**OS**： Montelli CoreOS 10.0.0.2501.04.6或更高版本（基于Arch Linux 2025.1.1 (x86_64)）  
+**OS**： Montelli CoreOS 10.0.0.2501.04.6或更高版本（基于Red Hat Enterprise Linux 10 (x86_64)）  
 **TPM安全组件**： 2.0  
 **UEFI安全启动**： 已启用  
 **附加要求**：为了组织的数据安全，您的设备的UEFI固件必须仅信任Windows UEFI CA 2023固件安全证书（安装组件前如果有其他UEFI固件安全证书，必须先将其删除）。
