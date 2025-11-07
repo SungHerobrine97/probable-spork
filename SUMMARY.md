@@ -7,6 +7,8 @@
     * [莫塔里权限组件](montelli/permission-montelli.md)
     * [所有的凯瑟琳](montelli/catherine.md)
 * [LCB部分非官方拓展](LCB.md)
+  * 空间扩张
+    * [《如我所书》](LCB/p-corp/story.md)
   * [人格覆写术](LCB/id-rewrite.md)
   * [狂猎](LCB/the-wild-hunt.md)
   * [天退星刀](LCB/tian-tui-xing-dao.md)
