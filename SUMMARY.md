@@ -6,6 +6,7 @@
   * [莫塔里家族](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/mo-ta-li-jia-zu/README.md)
     * [莫塔里权限组件](montelli/permission-montelli.md)
     * [所有的凯瑟琳](montelli/catherine.md)
+    * [鸿园分部](montelli/hongyuan.md)
 * [LCB部分非官方拓展](LCB.md)
   * 空间扩张
     * [《如我所书》](LCB/p-corp/story.md)
