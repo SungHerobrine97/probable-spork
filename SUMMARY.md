@@ -3,6 +3,7 @@
 * [欢迎](README.md)
 * [MES系统](montelli/mes-os.md)
 * [鸣潮非官方同人拓展](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/README.md)
+  * [海森·莫塔里](montelli/hyzion.md)
   * [莫塔里家族](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/mo-ta-li-jia-zu/README.md)
     * [莫塔里权限组件](montelli/permission-montelli.md)
     * [所有的凯瑟琳](montelli/catherine.md)
