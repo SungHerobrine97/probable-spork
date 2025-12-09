@@ -10,6 +10,7 @@
     * [自建CRM](montelli/crm.md)
       * [梦开始的地方](montelli/crm/first-boot.md)
       * [准备资产文件](montelli/crm/logo.md)
+      * [职业列表](montelli/crm/cheat-sheet.md)
     * [鸿园分部](montelli/hongyuan.md)
 * [LCB部分非官方拓展](LCB.md)
   * 空间扩张

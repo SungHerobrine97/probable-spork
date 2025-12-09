@@ -9,7 +9,13 @@
 
 - [SuiteCRM](https://suitecrm.com)
 - [宝塔面板](https://bt.cn)
-- [Debian操作系统](https://debian.org) / [Arch Linux Wiki](https://wiki.archlinux.org)
+- [Debian操作系统](https://debian.org) / [Arch Linux Wiki](https://wiki.archlinux.org) / [NixOS](https://nixos.org)
+- [DiskGenius](https://diskgenius.cn)
+
+## 打包工具
+
+- [Autoplay Menu Builder](http://www.linasoft.com/)
+- [UltraISO](https://ultraiso.net/)
 
 ## 虚拟机
 
