@@ -15,7 +15,7 @@
       * [职业列表](montelli/crm/cheat-sheet.md)
     * [鸿园分部](montelli/hongyuan.md)
 * [LCB部分非官方拓展](LCB.md)
-  * 空间扩张
+  * [空间扩张](lcb/kong-jian-kuo-zhang/README.md)
     * [《如我所书》](LCB/p-corp/story.md)
   * [人格覆写术](LCB/id-rewrite.md)
   * [狂猎](LCB/the-wild-hunt.md)
