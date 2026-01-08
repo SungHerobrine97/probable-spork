@@ -1,0 +1,14 @@
+GitBook - I got a error while login to Gitbook
+
+Hello mc-wang1803,
+Thanks for your message. I'm happy to help.​
+
+I reviewed the account associated with ********** and can see that it was automatically blocked by our system. We have protective measures in place to prevent the publication of fraudulent sites on GitBook.
+
+For example, creating multiple docs sites or organizations within a short time frame can trigger a block, as it may be perceived as suspicious activity. Additionally, sharing an account between multiple users, which we don’t allow, could also result in a block. (Instead, you can invite additional users to join an organization, allowing your team to collaborate) Similarly, using a VPN that frequently changes servers might trigger our security system.I've unblocked your account, and you should now be able to log in again. However, please be aware that similar activity in the future could cause the account to be blocked once more.​
+
+Feel free to let me know if I can help with anything else.
+
+Have a great day!
+
+John

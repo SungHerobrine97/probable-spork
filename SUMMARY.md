@@ -25,3 +25,4 @@
 * [引用内容参考](THIRD_PARTY_NOTICE.md)
 * [许可](LICENSE.md)
 * [赞助](donate.md)
+* [自建资料库](custom.md)
