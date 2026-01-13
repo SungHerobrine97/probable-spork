@@ -1,5 +1,6 @@
 ---
 icon: memo-pad
+cover: .gitbook/assets/roadrush-cover.png
 ---
 
 # 暴力摩托同人
