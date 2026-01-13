@@ -10,16 +10,16 @@
 
 ## 设备配置
 
-- 操作系统： Debian 13 Trixie （不建议使用NixOS）
-- RAM： 4GB
-- 储存： 64GB
-- 处理器： 2核
-- 宝塔面板版本号： 11.2.0（稳定版）
-- SuiteCRM版本： 8.9.1
-- 虚拟化平台软件：Oracle VirtualBox 7.2.4
-- UEFI安全启动： 已禁用
-- TPM： 不可用
-- Windows UEFI CA 2023<sup>为什么？</sup>： 未部署
+**操作系统**： Debian 13 Trixie （不建议使用NixOS）  
+**RAM**： 4GB  
+**储存**： 64GB  
+**处理器**： 2核  
+**宝塔面板版本号**： 11.2.0（稳定版）  
+**SuiteCRM版本**： 8.9.1  
+**虚拟化平台软件**：Oracle VirtualBox 7.2.4  
+**UEFI安全启动**： 已禁用  
+**TPM 2.0**： 不可用  
+**Windows UEFI CA 2023**<sup>为什么？</sup>： 未部署  
 
 <a href="https://www.123865.com/s/S7oiVv-zO0Sv" class="button primary">点我下载虚拟机文件</a>
 

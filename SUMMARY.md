@@ -2,6 +2,7 @@
 
 * [欢迎](README.md)
 * [MES系统](montelli/mes-os.md)
+* [暴力摩托](roadrush/README.md)
 * [鸣潮非官方同人拓展](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/README.md)
   * [海森·莫塔里](montelli/hyzion.md)
   * [某位目击者在星炬学院的摘录](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/star-1.md)
