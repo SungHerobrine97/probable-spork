@@ -4,7 +4,7 @@
 * [MES系统](montelli/mes-os.md)
 * [暴力摩托](roadrush/README.md)
   * [角色](roadrush/char.md)
-  * [战术道具](wapcons.md)
+  * [战术道具](roadrush/wapcons.md)
   * [地图制作](404.md)
 * [鸣潮非官方同人拓展](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/README.md)
   * [海森·莫塔里](montelli/hyzion.md)
