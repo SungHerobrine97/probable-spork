@@ -31,6 +31,7 @@
   * [天退星刀](LCB/tian-tui-xing-dao.md)
   * [阎磨刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
+    * [通往其他世界的道路](LCB/toother.md)
 ---
 * [与docsify的区别](diff-docsify.md)
 * [引用内容参考](THIRD_PARTY_NOTICE.md)
