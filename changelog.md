@@ -4,16 +4,20 @@ icon: info
 
 # 更改日志
 
-### 2026-2-3
+{% updates format="full" %}
+{% update date="2026-03-10" %}
+## 更新
+
+修补了一些已知问题。
+{% endupdate %}
+{% endupdates %}
+
+{% updates format="full" %}
+{% update date="2026-02-03" %}
+## 更新
 
 修正了一些常见问题。
 
 _**珂莱塔没有在等待任何人！！！！！！**_
-
-### 2026-1-24 23:17
-
-修正了一些已知问题。
-
-### 2026-1-24
-
-更改日志已创建。
+{% endupdate %}
+{% endupdates %}
