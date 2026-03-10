@@ -28,7 +28,7 @@
     * [《如我所书》](LCB/p-corp/story.md)
   * [人格覆写术](LCB/id-rewrite.md)
   * [狂猎](LCB/the-wild-hunt.md)
-  * [一些偏见](LCB/bias.2021.md)
+  * [一些偏见](LCB/bias-2021.md)
   * [天退星刀](LCB/tian-tui-xing-dao.md)
   * [阎磨刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
