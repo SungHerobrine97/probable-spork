@@ -1,14 +1,11 @@
 # Table of contents
 
 * [欢迎](README.md)
----
 * [MES系统](montelli/mes-os.md)
----
 * [暴力摩托](roadrush/README.md)
   * [角色](roadrush/char.md)
   * [战术道具](roadrush/wapcons.md)
   * [地图制作](404.md)
----
 * [鸣潮非官方同人拓展](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/README.md)
   * [海森·莫塔里](montelli/hyzion.md)
   * [某位目击者在星炬学院的摘录](ming-chao-fei-guan-fang-tong-ren-tuo-zhan/star-1.md)
@@ -21,7 +18,6 @@
       * [准备资产文件](montelli/crm/logo.md)
       * [职业列表](montelli/crm/cheat-sheet.md)
     * [鸿园分部](montelli/hongyuan.md)
----
 * [LCB部分非官方拓展](LCB.md)
   * [固件、操作系统](LCB/efi-os.md)
   * [空间扩张](lcb/kong-jian-kuo-zhang/README.md)
@@ -33,11 +29,9 @@
   * [阎磨刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
     * [通往其他世界的道路](LCB/toother.md)
----
 * [与docsify的区别](diff-docsify.md)
 * [引用内容参考](THIRD_PARTY_NOTICE.md)
 * [许可](LICENSE.md)
 * [赞助](donate.md)
 * [更改日志](changelog.md)
----
 * [自建资料库](custom.md)

@@ -1,4 +1,8 @@
-# 自建世界观扩展
+---
+icon: book-open
+---
+
+# 自建资料库
 
 本内容仅限于某二游，并且**视为一个镜像世界**。
 
@@ -54,7 +58,7 @@ https://carlotta.montelli.org/#/world/wuwa
 
 如果你是看到此处的内容想自己配置一个仓库，**请先不要在Github创建任何一个仓库**，先在Gitbook APP创建文档并发布网站之后再[设置Github Sync](https://gitbook.com/docs/documentation/zh/getting-started/git-sync/enabling-github-sync)，只有在配置Github Sync时没有可以操作的仓库再创建仓库。
 
-发布网站时，请确保网络环境不在异常环境下（比如VPN、Tor路由、服务器环境下），否则容易吃封禁（[参考此处](/.gitbook/assets/eml.reply.txt)）。
+发布网站时，请确保网络环境不在异常环境下（比如VPN、Tor路由、服务器环境下），否则容易吃封禁（[参考此处](.gitbook/assets/eml.reply.txt)）。
 
 Gitbook用户请参考[此处的说明](https://gitbook.com/docs/documentation/zh/getting-started/git-sync/content-configuration)配置你的仓库。
 
