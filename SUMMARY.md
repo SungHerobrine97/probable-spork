@@ -29,6 +29,7 @@
   * [阎磨刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
     * [通往其他世界的道路](LCB/toother.md)
+* [巴拉拉小魔仙部分扩展](barara.md)
 * [与docsify的区别](diff-docsify.md)
 * [引用内容参考](THIRD_PARTY_NOTICE.md)
 * [许可](LICENSE.md)
