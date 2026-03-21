@@ -22,4 +22,4 @@
 
 ***但愿这群魔仙能改写剧情巅峰的尽头是R18的结局。***
 
-你可能需要参阅[鸿园的君主鸿璐人格剧情](https://limbuscompany.huijiwiki.com/wiki/%E9%B8%BF%E7%92%90%E9%B8%BF%E5%9B%AD%E7%9A%84%E5%90%9B%E4%B8%BB%E5%89%A7%E6%83%85)。
+你可能需要参阅[鸿园的君主鸿璐人格剧情](https://limbuscompany.huijiwiki.com/wiki/%E9%B8%BF%E7%92%90%E9%B8%BF%E5%9B%AD%E7%9A%84%E5%90%9B%E4%B8%BB%E5%89%A7%E6%83%85)和[拉曼却领总督堂吉诃德人格剧情](https://limbuscompany.huijiwiki.com/wiki/%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7%E6%8B%89%C2%B7%E6%9B%BC%E5%8D%B4%E9%A2%86%E6%80%BB%E7%9D%A3%E5%89%A7%E6%83%85)。
