@@ -5,6 +5,14 @@ icon: info
 # 更改日志
 
 {% updates format="full" %}
+{% update date="2026-03-22" %}
+## 你染上魔仙了？
+
+注意被无我良干掉哈。
+{% endupdate %}
+{% endupdates %}
+
+{% updates format="full" %}
 {% update date="2026-03-10" %}
 ## 更新
 
