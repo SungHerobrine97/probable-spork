@@ -26,7 +26,7 @@
   * [狂猎](LCB/the-wild-hunt.md)
   * [一些偏见](LCB/bias-2021.md)
   * [天退星刀](LCB/tian-tui-xing-dao.md)
-  * [阎磨刀](LCB/yamato.md)
+  * [阎魔刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
     * [通往其他世界的道路](LCB/toother.md)
 * [巴拉拉小魔仙部分扩展](barara.md)
