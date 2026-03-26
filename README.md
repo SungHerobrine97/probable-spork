@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Welcome.png
+cover: .gitbook/assets/Desktop - 1.png
 coverY: 0
 ---
 
