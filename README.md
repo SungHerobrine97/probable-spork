@@ -10,7 +10,9 @@ coverY: 0
 
 所有内容均不代表其他游戏官方立场，请勿拿这些内容创作用于违反《Project Moon二创公约》和《鸣潮同人指南》的同人故事。
 
-### 参考文档
+本内容可能包含其他二游的内容。
+
+## 参考文档
 
 * [鸣潮同人指引 1.1](https://bilibili.com/read/cv43346710)
 * [Project Moon二创公约](https://limbuscompany.huijiwiki.com/wiki/%E6%9C%88%E8%AE%A1%E4%BA%8C%E5%88%9B%E5%85%AC%E7%BA%A6)

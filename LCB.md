@@ -9,3 +9,5 @@ icon: memo-pad
 所有内容仅为个人观点，不代表Project Moon的任何立场。
 
 > 合规性警告：谨慎将Limbus Company世界观引入到其他作品当中（尤其是全年龄向作品），这可能会引起严重问题。
+
+> **更严重的警告**：Limbus Company目前在抖音那边属于禁播游戏。
