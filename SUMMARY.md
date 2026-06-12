@@ -32,6 +32,7 @@
   * [阎魔刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
     * [通往其他世界的道路](LCB/toother.md)
+    * [技能](LCB/skill.md)
 * [巴拉拉小魔仙部分扩展](barara.md)
   * [和边狱巴士对此的后记](barara/lcb.md)
 * [与docsify的区别](diff-docsify.md)
