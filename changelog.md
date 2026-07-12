@@ -5,6 +5,14 @@ icon: info
 # 更改日志
 
 {% updates format="full" %}
+{% update date="2026-07-12" %}
+## 常规修补
+
+修复了一些已知问题。
+{% endupdate %}
+{% endupdates %}
+
+{% updates format="full" %}
 {% update date="2026-03-22" %}
 ## 你染上魔仙了？
 
