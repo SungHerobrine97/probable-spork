@@ -30,6 +30,7 @@
   * [人格覆写术](LCB/id-rewrite.md)
   * [狂猎](LCB/the-wild-hunt.md)
   * [一些偏见](LCB/bias-2021.md)
+  * [~~真·未成年人合规~~](LCB/2087.md)
   * [天退星刀](LCB/tian-tui-xing-dao.md)
   * [阎魔刀](LCB/yamato.md)
   * [人格、E.G.O和饰品](LCB/egogift.md)
