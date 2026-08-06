@@ -24,6 +24,7 @@
 * [LCB部分非官方拓展](LCB.md)
   * [退出场景时重置自身状态效果](LCB/clearonexit.md)
   * [固件、操作系统](LCB/efi-os.md)
+  * [备忘](backup.md)
   * [同事.skill](LCB/skill.fake.md)
   * [空间扩张](lcb/kong-jian-kuo-zhang/README.md)
     * [《如我所书》](LCB/p-corp/story.md)
