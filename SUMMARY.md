@@ -45,3 +45,4 @@
 * [赞助](donate.md)
 * [更改日志](changelog.md)
 * [自建资料库](custom.md)
+* [自建A.P.D.](apd/README.md)
