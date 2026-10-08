@@ -173,6 +173,8 @@ if exist "%CONFIG%" (
     exit 0
 )
 :menu
+::请勿照抄此处的代码，如果这是刚创建的空白文件夹则可以忽略这个注释。
+::否则你应该根据实际情况修改脚本（你只管后面的choice和if语句然后比葫芦画瓢，然后后续的命令指向一个可执行文件即可）
 echo %apd_title% Autoplay CLI
 echo.
 echo What do you do next?
@@ -188,4 +190,8 @@ if %ERRORLEVEL%==1 (
 if %ERRORLEVEL%==2 (
     exit 0
 )
+::按实际需要修改代码并取消注释即可。
+::if %ERRORLEVEL%==x (
+::    example.exe
+::)
 ```
